@@ -143,27 +143,6 @@ h2,h3,h4,h5,h6,p{
 	padding: 0 0 1em;
 	line-height: 1.2em;
 }
-a.down{
-	text-decoration: none;
-	color: #fff;
-	background: #f44336;
-	padding: 0.6em 1em;
-	font-size: 1.2em;
-	border-radius: 6px;
-	-webkit-border-radius: 6px;
-	-o-border-radius: 6px;
-	-moz-border-radius: 6px;
-	-ms-border-radius: 6px;
-}
-a.down:hover{
-	background:#9C2820;
-}
-a.arrow{
-	position: absolute;
-	bottom: 49px;
-	left: 54em;
-}
-/*--content--*/
 .about{
 	text-align:center;
 	background:#f2f2f2;
