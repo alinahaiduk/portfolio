@@ -138,8 +138,9 @@ h2,h3,h4,h5,h6,p{
 	font-size: 4em;
 	color: #fff;
 	font-weight: 100;
-	width: 61%;
-	margin: 0 auto;
+	width: 30%;
+	margin: 1em auto;
+	margin-left: 50%;
 	padding: 0 0 1em;
 	line-height: 1.2em;
 }
@@ -216,57 +217,6 @@ a.down-in{
 }
 .work-on{
 	margin-top: 3.5%;
-}
-.simple h5{
-	font-size:2.5em;
-	margin: 0;
-	color: #fff;
-	text-transform: uppercase;
-	font-weight: 300;
-}
-.simple h5 span{
-	border-bottom:5px solid #ffc36e;
-	padding: 0.2em 0;
-}
-.simple {
-	text-align: center;
-	padding: 9em 0;
-	display: none;
-	position: absolute;
-	top: 32px;
-	width: 92%;
-	height: 87%;
-	background:rgba(210, 89, 80, 0.88);
-	left: 23px;
-}
-.simple p {
-	font-size: 1.1em;
-	padding: 1.5em 0;
-	color: #E2E2E2;
-	width: 75%;
-	margin: 0 auto;
-	font-weight: 200;
-	line-height:1.3em;
-}
-.work-grid:hover .simple,.work-bird:hover .simple{
-	display:block;
-}
-.work-bird{
-	position:relative;
-}
-.simple-in{
-	padding:2em 0;
-	height: 74%;
-}
-.simple-out{
-	padding: 2.5em 0;
-	height: 79%;
-	top: 25px;
-	left: 20px;
-	width: 85%;
-}
-.simple-out h5,.sim-2 h5{
-	font-size:1.5em;
 }
 .sim-1{
 	height: 85%;
